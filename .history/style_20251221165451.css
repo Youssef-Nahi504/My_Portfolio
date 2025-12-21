@@ -284,16 +284,6 @@ body {
     opacity: 0.8;
 }
 
-.profile-info .profile-link {
-    color: var(--text-light);
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.profile-info .profile-link:hover {
-    color: var(--accent-color);
-}
-
 .profile-info strong {
     display: inline-block;
     width: 150px;
